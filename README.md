@@ -5,7 +5,7 @@ FlightScope BBHost가 종료되었을 때 관리자에게 알림을 주는 프�
 
 ![image](https://user-images.githubusercontent.com/58966525/120576666-20ba9200-c45e-11eb-9057-8a04a72c3692.png)
 
-## to 데이터 분석팀
+## to 데이터 분
 * 프로그램 사용 중 에러나 개선 사항 있으면 이슈에 올려주세요. 
 
 ## to 박문수 과장님
